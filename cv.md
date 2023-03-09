@@ -31,5 +31,5 @@ _like a SysAdmin and it was lomg time ago_
 * RS-School
 
 ## Language:
-1. English level A2
+1. English level B2
 2. Ukrainian
